@@ -1,3 +1,20 @@
+# Disaster Preparedness Platform 🌍🚨
+
+A web-based platform designed to help individuals and communities prepare for natural and man-made disasters by providing awareness, preparedness guidelines, and essential resources — all in one place.
+
+This project was developed as part of the **Smart India Hackathon (SIH) Pre-Qualifier Round** with the aim of improving disaster readiness and reducing risks through accessible digital solutions.
+
+---
+## 💡 Solution Overview
+
+The Disaster Preparedness Platform serves as a centralized hub for disaster-related information.  
+It provides users with clear and reliable guidance on disaster preparedness, safety measures, and awareness in a simple and accessible format.
+
+The platform focuses on:
+- Awareness creation
+- Preparedness planning
+- Easy accessibility of information
+
 **URL**: https://disaster-preparedness-theta.vercel.app/
 
 ## How can I edit this code?
@@ -31,11 +48,24 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
-Screenshots:
+
+## 📸 Screenshots:
 <img width="1920" height="1020" alt="Screenshot 2026-01-22 230836" src="https://github.com/user-attachments/assets/7f235a6a-1532-436d-a03b-78f394686e34" />
 <img width="1920" height="1020" alt="Screenshot 2026-01-22 230849" src="https://github.com/user-attachments/assets/21bf4cc5-d057-49cc-9ba5-e4a6213afe18" />
 <img width="1920" height="1020" alt="Screenshot 2026-01-22 230908" src="https://github.com/user-attachments/assets/c4681ec2-18d6-4669-9848-510a8c7c20bb" />
 <img width="1920" height="1020" alt="Screenshot 2026-01-22 230922" src="https://github.com/user-attachments/assets/7c7516e1-4697-4293-826a-d4386beb0db5" />
+
+🔮 Future Enhancements
+
+📍 Real-time disaster alerts and notifications
+
+🗺️ Location-based safety recommendations
+
+📞 Emergency contact integration
+
+🌍 Multilingual support for wider accessibility
+
+🤖 AI-based disaster risk prediction and guidance
 
 **Edit a file directly in GitHub**
 
@@ -64,6 +94,11 @@ This project is built with:
 ## How can I deploy this project?
 
 Simply open [versal](https://disaster-preparedness-theta.vercel.app/) and click on Share -> Publish.
+
+👩‍💻 Author:
+Disha Wali
+Engineering Student | SIH Aspirant
+GitHub: https://github.com/Disha-Wali
 
 ## Can I connect a custom domain to my project?
 
