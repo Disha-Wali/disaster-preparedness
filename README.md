@@ -1,5 +1,3 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e646a1f5-9e77-4333-bb60-46149a1dbea9" />## Project info
-
 **URL**: https://disaster-preparedness-theta.vercel.app/
 
 ## How can I edit this code?
